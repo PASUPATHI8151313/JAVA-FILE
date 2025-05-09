@@ -1,0 +1,26 @@
+Missing or Underrepresented Topics:
+Operators in Java – Arithmetic, Logical, Bitwise, Relational, and Assignment operators.
+
+Type Casting and Conversion – Implicit and Explicit type casting.
+
+Wrapper Classes – Autoboxing and Unboxing.
+
+String Handling – StringBuffer, StringBuilder, String methods.
+
+Collections Framework (Very important for real-world applications)
+
+ArrayList, LinkedList, HashSet, HashMap, TreeMap, etc.
+
+Enumerations (Enums) – Usage and best practices.
+
+Inner Classes – Static and Non-static inner classes, Anonymous inner classes.
+
+Garbage Collection – finalize() method, GC strategies.
+
+Serialization and Deserialization – Saving and restoring object states.
+
+Annotations in Java – Custom and built-in annotations.
+
+Java Streams API – Functional-style operations on collections.
+
+Concurrency and Synchronization – Locks, Volatile keyword, ExecutorService.
